@@ -64,7 +64,7 @@ def winner(board)
       return "O"
     end
   end
-end
+
 
 # def winner (board)
 #   index = []
